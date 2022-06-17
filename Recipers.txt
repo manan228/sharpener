@@ -3,5 +3,7 @@ Welcome to kitchen
 pasta
 pizza
 
+beans
+sizzler
 
 thanks
